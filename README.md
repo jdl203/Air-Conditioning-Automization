@@ -1,0 +1,2 @@
+# Air-Conditioning-Automization
+https://www.google.com/search?client=safari&amp;rls=en&amp;q=Atomization+of+AC+unit+that+utilizes+two+Arduinos+communicating+over+radio.+This+is+accomplished+by+having+an+Arduino+at+a+focal+point+of+the+room,+monitoring+the+temperature+using+a+TMP36+temperature+sensor.+The+monitoring+Arduino+sends+data+across+a+radio+channel+and+received+by+the+controller+Arduino.+This+Arduino+deserializes+the+data+and+controls+a+relay+which+powers+the+AC+unit.&amp;ie=UTF-8&amp;oe=UTF-8
